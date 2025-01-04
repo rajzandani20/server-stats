@@ -23,3 +23,4 @@ A simple shell script to analyze basic server performance statistics. The script
 1. Clone the repository to your local machine or server:
    ```bash
    git clone https://github.com/rajzandani20/server-stats.git
+   https://github.com/rajzandani20/server-stats
